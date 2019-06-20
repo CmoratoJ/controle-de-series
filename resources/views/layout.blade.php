@@ -17,7 +17,7 @@
     @endauth
 
     @guest
-        <a href="{{ route('listar_series') }}">Entrar</a>
+        <a href="/entrar">Entrar</a>
     @endguest
 </nav>
 
